@@ -1,0 +1,45 @@
+{
+   "id":1,
+   "versionCode":1,
+   "lessonType":"Jov",
+   "videos":[
+      {
+         "videoTitle":"",
+         "videoId":"",
+         "url":"",
+         "language":"",
+         "lessonNumber": 1
+         "author":"",
+         "fb":"",
+         "instagram":"",
+         "website":""
+      
+},
+      {
+         "videoTitle":"",
+         "videoId":"",
+         "url":"",
+         "language":"",
+         "lessonNumber": 1
+         "author":"",
+         "fb":"",
+         "instagram":"",
+         "website":""
+      
+},
+
+{
+         "videoTitle":"",
+         "videoId":"",
+         "url":"",
+         "language":"",
+         "lessonNumber": 1
+         "author":"",
+         "fb":"",
+         "instagram":"",
+         "website":""
+      
+}
+   
+]
+}
