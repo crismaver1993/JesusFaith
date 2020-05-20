@@ -8,7 +8,7 @@
          "videoId":"",
          "url":"",
          "language":"",
-         "lessonNumber": 1
+         "lessonNumber": 1,
          "author":"",
          "fb":"",
          "instagram":"",
@@ -20,7 +20,8 @@
          "videoId":"",
          "url":"",
          "language":"",
-         "lessonNumber": 1
+         "lessonNumber": 1,
+         "authorPicture" : "",
          "author":"",
          "fb":"",
          "instagram":"",
@@ -33,7 +34,8 @@
          "videoId":"",
          "url":"",
          "language":"",
-         "lessonNumber": 1
+         "lessonNumber": 1,
+         "authorPicture" : "",
          "author":"",
          "fb":"",
          "instagram":"",
