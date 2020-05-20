@@ -4,11 +4,11 @@
    "lessonType":"Jov",
    "videos":[
       {
-         "videoTitle":"",
+         "videoTitle":"L1",
          "videoId":"",
          "url":"",
          "language":"",
-         "lessonNumber": 1,
+         "lessonNumber": "1",
          "author":"",
          "fb":"",
          "instagram":"",
@@ -16,11 +16,11 @@
       
 },
       {
-         "videoTitle":"",
+         "videoTitle":"L1V2",
          "videoId":"",
          "url":"",
          "language":"",
-         "lessonNumber": 1,
+         "lessonNumber": "1",
          "authorPicture" : "",
          "author":"",
          "fb":"",
@@ -30,11 +30,11 @@
 },
 
 {
-         "videoTitle":"",
+         "videoTitle":"L2",
          "videoId":"",
          "url":"",
          "language":"",
-         "lessonNumber": 1,
+         "lessonNumber": "2",
          "authorPicture" : "",
          "author":"",
          "fb":"",
