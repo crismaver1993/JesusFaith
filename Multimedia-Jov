@@ -8,7 +8,7 @@
          "videoId":"_IV7VetMPY8",
          "url":"",
          "language":"",
-         "lessonNumber": "1",
+         "lessonNumber":"1",
          "author":"",
          "fb":"",
          "instagram":"",
@@ -20,22 +20,36 @@
          "videoId":"",
          "url":"",
          "language":"",
-         "lessonNumber": "1",
-         "authorPicture" : "",
+         "lessonNumber":"1",
+         "authorPicture":"",
          "author":"",
          "fb":"",
          "instagram":"",
          "website":""
       
 },
-
-{
+      {
          "videoTitle":"L2",
          "videoId":"",
          "url":"",
          "language":"",
-         "lessonNumber": "2",
-         "authorPicture" : "",
+         "lessonNumber":"2",
+         "authorPicture":"",
+         "author":"",
+         "fb":"",
+         "instagram":"",
+         "website":""
+      
+}
+   
+],
+   "audios":[
+      {
+         "audioTitle":"",
+         "audioId":"",
+         "url":"",
+         "language":"",
+         "lessonNumber":"1",
          "author":"",
          "fb":"",
          "instagram":"",
