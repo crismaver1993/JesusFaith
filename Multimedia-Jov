@@ -3,8 +3,8 @@
    "versionCode":1,
    "lessonType":"Jov",
    "videos":[
-   {
-         "videoTitle":"¿DIOS EXISTE? 🤔🌎 | Decodificando la Biblia 001",
+      {
+         "videoTitle":"¿DIOS EXISTE? 🤔🌎",
          "videoId":"pky1yqwmG9A",
          "url":"https://www.youtube.com/watch?v=pky1yqwmG9A",
          "language":"ES",
@@ -16,7 +16,7 @@
          "website":""
       
 },
-{
+      {
          "videoTitle":"¿Quién es Dios?",
          "videoId":"xp0hadYS0Nk",
          "url":"https://youtu.be/xp0hadYS0Nk",
@@ -26,10 +26,11 @@
          "author":"Iglesia Adventista Argentina",
          "fb":"adventistas.ar",
          "instagram":"adventistas.mibon",
-         "website":"" 
+         "website":""
+      
 },
       {
-         "videoTitle":"El messenger de Dios - ¿Qué es la Biblia?",
+         "videoTitle":"El messenger de Dios",
          "videoId":"_IV7VetMPY8",
          "url":"https://www.youtube.com/watch?v=_IV7VetMPY8",
          "language":"ES",
@@ -41,7 +42,7 @@
          "website":""
       
 },
-{
+      {
          "videoTitle":"¿Puedo confiar en la Biblia?",
          "videoId":"ZC2FlHsCpfE",
          "url":"https://youtu.be/ZC2FlHsCpfE",
@@ -51,7 +52,8 @@
          "author":"Iglesia Adventista Argentina",
          "fb":"adventistas.ar",
          "instagram":"adventistas.mibon",
-         "website":"" 
+         "website":""
+      
 },
       {
          "videoTitle":"Estudio La Fe de Jesus",
@@ -64,10 +66,10 @@
          "fb":"pastorbullon",
          "instagram":"alejandrobullon",
          "website":""
+      
 },
-
- {
-         "videoTitle":"CÓMO ESCUCHAR LA VOZ DE DIOS",
+      {
+         "videoTitle":"¿Cómo escuchar la voz de Dios?",
          "videoId":"p9G4nK-atAc",
          "url":"https://www.youtube.com/watch?v=p9G4nK-atAc",
          "language":"ES",
@@ -76,11 +78,11 @@
          "author":"Escarabajo Binario",
          "fb":"escarabajobinario",
          "instagram":"escarabajobinario",
-         "website":"" 
+         "website":""
+      
 },
-
- {
-         "videoTitle":"Por Qué Me Cuesta Tanto Orar? - ¡Agregué a Dios a Whatsapp! 📱🙏😇",
+      {
+         "videoTitle":"¡Agregué a Dios a Whatsapp! 📱🙏😇",
          "videoId":"QReH6UEvEBM",
          "url":"https://www.youtube.com/watch?v=QReH6UEvEBM",
          "language":"ES",
@@ -89,9 +91,10 @@
          "author":"Escarabajo Binario",
          "fb":"escarabajobinario",
          "instagram":"escarabajobinario",
-         "website":"" 
+         "website":""
+      
 },
-{
+      {
          "videoTitle":"¿Realmente volverá Jesús?",
          "videoId":"T9oRhiLh080",
          "url":"https://www.youtube.com/watch?v=T9oRhiLh080",
@@ -101,19 +104,320 @@
          "author":"Iglesia Adventista Argentina",
          "fb":"adventistas.ar",
          "instagram":"adventistas.mibon",
-         "website":"" 
+         "website":""
+      
 },
-{
-         "videoTitle":"¿Puedo confiar en la Biblia?",
-         "videoId":"",
-         "url":"",
+      {
+         "videoTitle":"¿Cómo saber cuándo es \"pronto\"?",
+         "videoId":"GaSaxEonA4g",
+         "url":"https://youtu.be/GaSaxEonA4g",
          "language":"ES",
-         "lessonNumber":"",
+         "lessonNumber":"5",
+         "authorPicture":"https://cldup.com/zv1PmkGuVV.jpg",
+         "author":"Iglesia Adventista Argentina",
+         "fb":"adventistas.ar",
+         "instagram":"adventistas.mibon",
+         "website":""
+      
+},
+      {
+         "videoTitle":"¿Cómo comenzó el sufrimiento?",
+         "videoId":"sZ1A5Sef1R4",
+         "url":"https://youtu.be/sZ1A5Sef1R4",
+         "language":"ES",
+         "lessonNumber":"6",
+         "authorPicture":"https://cldup.com/zv1PmkGuVV.jpg",
+         "author":"Iglesia Adventista Argentina",
+         "fb":"adventistas.ar",
+         "instagram":"adventistas.mibon",
+         "website":""
+      
+},
+      {
+         "videoTitle":"Por qué hay tanta maldad en la Tierra? 😈🌎",
+         "videoId":"7o93rNlzp_o",
+         "url":"https://youtu.be/7o93rNlzp_o",
+         "language":"ES",
+         "lessonNumber":"6",
          "authorPicture":"https://cldup.com/3ILqCBkC7h.png",
          "author":"Escarabajo Binario",
          "fb":"escarabajobinario",
          "instagram":"escarabajobinario",
-         "website":"" 
+         "website":""
+      
+},
+      {
+         "videoTitle":"La paradoja de la Salvación 😇✅",
+         "videoId":"u7XAe24rbYU",
+         "url":"https://youtu.be/u7XAe24rbYU",
+         "language":"ES",
+         "lessonNumber":"7",
+         "authorPicture":"https://cldup.com/3ILqCBkC7h.png",
+         "author":"Escarabajo Binario",
+         "fb":"escarabajobinario",
+         "instagram":"escarabajobinario",
+         "website":""
+      
+},
+      {
+         "videoTitle":"¿Hay salvación para mí?",
+         "videoId":"RMCbeYVaKEc",
+         "url":"https://youtu.be/RMCbeYVaKEc",
+         "language":"ES",
+         "lessonNumber":"7",
+         "authorPicture":"https://cldup.com/zv1PmkGuVV.jpg",
+         "author":"Iglesia Adventista Argentina",
+         "fb":"adventistas.ar",
+         "instagram":"adventistas.mibon",
+         "website":""
+      
+},
+      {
+         "videoTitle":"Dios ¿realmente me perdonará?",
+         "videoId":"sOYIzZTWNrE",
+         "url":"https://youtu.be/sOYIzZTWNrE",
+         "language":"ES",
+         "lessonNumber":"8",
+         "authorPicture":"https://cldup.com/zv1PmkGuVV.jpg",
+         "author":"Iglesia Adventista Argentina",
+         "fb":"adventistas.ar",
+         "instagram":"adventistas.mibon",
+         "website":""
+      
+},
+      {
+         "videoTitle":"Cómo Liberarse de la Culpa? El Secreto del Perdón de Dios 😔🙏",
+         "videoId":"ZSAlz8MbK1M",
+         "url":"https://youtu.be/ZSAlz8MbK1M",
+         "language":"ES",
+         "lessonNumber":"8",
+         "authorPicture":"https://cldup.com/3ILqCBkC7h.png",
+         "author":"Escarabajo Binario",
+         "fb":"escarabajobinario",
+         "instagram":"escarabajobinario",
+         "website":""
+      
+},
+      {
+         "videoTitle":"¿Cómo funcionará el juicio?",
+         "videoId":"oPpegAYpYps",
+         "url":"https://youtu.be/oPpegAYpYps",
+         "language":"ES",
+         "lessonNumber":"9",
+         "authorPicture":"https://cldup.com/zv1PmkGuVV.jpg",
+         "author":"Iglesia Adventista Argentina",
+         "fb":"adventistas.ar",
+         "instagram":"adventistas.mibon",
+         "website":""
+      
+},
+      {
+         "videoTitle":"¿Cuál es la Ley de Dios?",
+         "videoId":"LHxyuvYzTvY",
+         "url":"https://youtu.be/LHxyuvYzTvY",
+         "language":"ES",
+         "lessonNumber":"10",
+         "authorPicture":"https://cldup.com/zv1PmkGuVV.jpg",
+         "author":"Iglesia Adventista Argentina",
+         "fb":"adventistas.ar",
+         "instagram":"adventistas.mibon",
+         "website":""
+      
+},
+      {
+         "videoTitle":"¿LA LEY DE DIOS CADUCÓ?",
+         "videoId":"AQzQC4ls0es",
+         "url":"https://youtu.be/AQzQC4ls0es",
+         "language":"ES",
+         "lessonNumber":"10",
+         "authorPicture":"https://cldup.com/3ILqCBkC7h.png",
+         "author":"Escarabajo Binario",
+         "fb":"escarabajobinario",
+         "instagram":"escarabajobinario",
+         "website":""
+      
+},
+      {
+         "videoTitle":"SÉPTIMO DÍA NO DESCANSARÉ?",
+         "videoId":"mi6JQ_kAfIs",
+         "url":"https://youtu.be/mi6JQ_kAfIs",
+         "language":"ES",
+         "lessonNumber":"11",
+         "authorPicture":"https://cldup.com/3ILqCBkC7h.png",
+         "author":"Escarabajo Binario",
+         "fb":"escarabajobinario",
+         "instagram":"escarabajobinario",
+         "website":""
+      
+},
+      {
+         "videoTitle":"¿Importa el día?",
+         "videoId":"jCOFDfryZxI",
+         "url":"https://youtu.be/jCOFDfryZxI",
+         "language":"ES",
+         "lessonNumber":"11",
+         "authorPicture":"https://cldup.com/zv1PmkGuVV.jpg",
+         "author":"Iglesia Adventista Argentina",
+         "fb":"adventistas.ar",
+         "instagram":"adventistas.mibon",
+         "website":""
+      
+},
+      {
+         "videoTitle":"¿Qué espera Dios de mí los sábados?",
+         "videoId":"geTJQUcITPI",
+         "url":"https://youtu.be/geTJQUcITPI",
+         "language":"ES",
+         "lessonNumber":"11",
+         "authorPicture":"https://cldup.com/zv1PmkGuVV.jpg",
+         "author":"Iglesia Adventista Argentina",
+         "fb":"adventistas.ar",
+         "instagram":"adventistas.mibon",
+         "website":""
+      
+},
+      {
+         "videoTitle":"¿Qué sucede después de la muerte?",
+         "videoId":"0g76-ng3CJw",
+         "url":"https://youtu.be/0g76-ng3CJw",
+         "language":"ES",
+         "lessonNumber":"12",
+         "authorPicture":"https://cldup.com/zv1PmkGuVV.jpg",
+         "author":"Iglesia Adventista Argentina",
+         "fb":"adventistas.ar",
+         "instagram":"adventistas.mibon",
+         "website":""
+      
+},
+      {
+         "videoTitle":"¿Hay una iglesia verdadera?",
+         "videoId":"qasJ17zd3G4",
+         "url":"https://youtu.be/qasJ17zd3G4",
+         "language":"ES",
+         "lessonNumber":"13",
+         "authorPicture":"https://cldup.com/zv1PmkGuVV.jpg",
+         "author":"Iglesia Adventista Argentina",
+         "fb":"adventistas.ar",
+         "instagram":"adventistas.mibon",
+         "website":""
+      
+},
+      {
+         "videoTitle":"¿Por qué no escucho la voz de Dios?",
+         "videoId":"ZXQakKtf6xo",
+         "url":"https://youtu.be/ZXQakKtf6xo",
+         "language":"ES",
+         "lessonNumber":"14",
+         "authorPicture":"https://cldup.com/3ILqCBkC7h.png",
+         "author":"Escarabajo Binario",
+         "fb":"escarabajobinario",
+         "instagram":"escarabajobinario",
+         "website":""
+      
+},
+      {
+         "videoTitle":"¿Cómo escuchar la voz de Dios?",
+         "videoId":"p9G4nK-atAc",
+         "url":"https://youtu.be/p9G4nK-atAc",
+         "language":"ES",
+         "lessonNumber":"14",
+         "authorPicture":"https://cldup.com/3ILqCBkC7h.png",
+         "author":"Escarabajo Binario",
+         "fb":"escarabajobinario",
+         "instagram":"escarabajobinario",
+         "website":""
+      
+},
+      {
+         "videoTitle":"¿Para qué bautizarme?",
+         "videoId":"2ug2wOgef-M",
+         "url":"https://youtu.be/2ug2wOgef-M",
+         "language":"ES",
+         "lessonNumber":"15",
+         "authorPicture":"https://cldup.com/zv1PmkGuVV.jpg",
+         "author":"Iglesia Adventista Argentina",
+         "fb":"adventistas.ar",
+         "instagram":"adventistas.mibon",
+         "website":""
+      
+},
+      {
+         "videoTitle":"¿Dueño o socio?",
+         "videoId":"nf96awg0Woc",
+         "url":"https://youtu.be/nf96awg0Woc",
+         "language":"ES",
+         "lessonNumber":"16",
+         "authorPicture":"https://cldup.com/zv1PmkGuVV.jpg",
+         "author":"Iglesia Adventista Argentina",
+         "fb":"adventistas.ar",
+         "instagram":"adventistas.mibon",
+         "website":""
+      
+},
+      {
+         "videoTitle":"La importancia de una relación con Dios",
+         "videoId":"xvUsrnVxsC0",
+         "url":"https://youtu.be/xvUsrnVxsC0",
+         "language":"ES",
+         "lessonNumber":"17",
+         "authorPicture":"https://cldup.com/3ILqCBkC7h.png",
+         "author":"Escarabajo Binario",
+         "fb":"escarabajobinario",
+         "instagram":"escarabajobinario",
+         "website":""
+      
+},
+      {
+         "videoTitle":"3 lugares dónde encontrar a tu idónea",
+         "videoId":"-JykO9jtPF0",
+         "url":"https://youtu.be/-JykO9jtPF0",
+         "language":"ES",
+         "lessonNumber":"17",
+         "authorPicture":"https://cldup.com/3ILqCBkC7h.png",
+         "author":"Escarabajo Binario",
+         "fb":"escarabajobinario",
+         "instagram":"escarabajobinario",
+         "website":""
+      
+},
+      {
+         "videoTitle":"¿Qué es el don de profecía?",
+         "videoId":"Y7o1ciju5h0",
+         "url":"https://youtu.be/Y7o1ciju5h0",
+         "language":"ES",
+         "lessonNumber":"17",
+         "authorPicture":"https://cldup.com/zv1PmkGuVV.jpg",
+         "author":"Iglesia Adventista Argentina",
+         "fb":"adventistas.ar",
+         "instagram":"adventistas.mibon",
+         "website":""
+      
+},
+      {
+         "videoTitle":"¿Y ahora ¿qué hago?",
+         "videoId":"brbtnbmCpac",
+         "url":"https://youtu.be/brbtnbmCpac",
+         "language":"ES",
+         "lessonNumber":"18",
+         "authorPicture":"https://cldup.com/zv1PmkGuVV.jpg",
+         "author":"Iglesia Adventista Argentina",
+         "fb":"adventistas.ar",
+         "instagram":"adventistas.mibon",
+         "website":""
+      
+},
+      {
+         "videoTitle":"¿Cómo NO leer la Biblia?",
+         "videoId":"yg34nutm-Vc",
+         "url":"https://youtu.be/yg34nutm-Vc",
+         "language":"ES",
+         "lessonNumber":"18",
+         "authorPicture":"https://cldup.com/3ILqCBkC7h.png",
+         "author":"Escarabajo Binario",
+         "fb":"escarabajobinario",
+         "instagram":"escarabajobinario",
+         "website":""
+      
 }
    
 ],
