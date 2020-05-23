@@ -3,72 +3,120 @@
    "versionCode":1,
    "lessonType":"Jov",
    "videos":[
-      {
-         "videoTitle":"L1",
-         "videoId":"_IV7VetMPY8",
-         "url":"",
+   {
+         "videoTitle":"¿DIOS EXISTE? 🤔🌎 | Decodificando la Biblia 001",
+         "videoId":"pky1yqwmG9A",
+         "url":"https://www.youtube.com/watch?v=pky1yqwmG9A",
          "authorPicture":"https://cldup.com/3ILqCBkC7h.png",
-         "language":"",
+         "language":"ES",
          "lessonNumber":"1",
+         "authorPicture":"Escarabajo Binario",
          "author":"Escarabajo Binario",
          "fb":"escarabajobinario",
          "instagram":"escarabajobinario",
          "website":""
       
 },
-      {
-         "videoTitle":"L1V2",
-         "videoId":"",
-         "url":"",
-         "language":"",
+{
+         "videoTitle":"¿Quién es Dios?",
+         "videoId":"xp0hadYS0Nk",
+         "url":"https://youtu.be/xp0hadYS0Nk",
+         "language":"ES",
          "lessonNumber":"1",
-         "authorPicture":"",
-         "author":"",
-         "fb":"",
-         "instagram":"",
-         "website":""
-      
-},
-
-      {
-         "videoTitle":"L1V3",
-         "videoId":"",
-         "url":"",
-         "language":"",
-         "lessonNumber":"1",
-         "authorPicture":"",
-         "author":"",
-         "fb":"",
-         "instagram":"",
-         "website":""
-      
+         "authorPicture":"https://cldup.com/zv1PmkGuVV.jpg",
+         "author":"Iglesia Adventista Argentina",
+         "fb":"adventistas.ar",
+         "instagram":"adventistas.mibon",
+         "website":"" 
 },
       {
-         "videoTitle":"L2",
-         "videoId":"",
-         "url":"",
-         "language":"",
+         "videoTitle":"El messenger de Dios - ¿Qué es la Biblia?",
+         "videoId":"_IV7VetMPY8",
+         "url":"https://www.youtube.com/watch?v=_IV7VetMPY8",
+         "authorPicture":"https://cldup.com/3ILqCBkC7h.png",
+         "language":"ES",
          "lessonNumber":"2",
-         "authorPicture":"",
-         "author":"",
-         "fb":"",
-         "instagram":"",
+         "authorPicture":"Escarabajo Binario",
+         "author":"Escarabajo Binario",
+         "fb":"escarabajobinario",
+         "instagram":"escarabajobinario",
          "website":""
       
 },
 {
-         "videoTitle":"L23",
+         "videoTitle":"¿Puedo confiar en la Biblia?",
+         "videoId":"ZC2FlHsCpfE",
+         "url":"https://youtu.be/ZC2FlHsCpfE",
+         "language":"ES",
+         "lessonNumber":"2",
+         "authorPicture":"https://cldup.com/zv1PmkGuVV.jpg",
+         "author":"Iglesia Adventista Argentina",
+         "fb":"adventistas.ar",
+         "instagram":"adventistas.mibon",
+         "website":"" 
+},
+      {
+         "videoTitle":"Estudio La Fe de Jesus",
+         "videoId":"6JL4jQZJ1YM",
+         "url":"https://www.youtube.com/watch?v=6JL4jQZJ1YM",
+         "language":"ES",
+         "lessonNumber":"2",
+         "authorPicture":"https://cldup.com/t2OvkS6gCn.jpg",
+         "author":"Ptr. Alejandro Bullón",
+         "fb":"pastorbullon",
+         "instagram":"alejandrobullon",
+         "website":""
+},
+
+ {
+         "videoTitle":"CÓMO ESCUCHAR LA VOZ DE DIOS",
+         "videoId":"p9G4nK-atAc",
+         "url":"https://www.youtube.com/watch?v=p9G4nK-atAc",
+         "language":"ES",
+         "lessonNumber":"3",
+         "authorPicture":"https://cldup.com/3ILqCBkC7h.png",
+         "author":"Escarabajo Binario",
+         "fb":"escarabajobinario",
+         "instagram":"escarabajobinario",
+         "website":"" 
+},
+
+ {
+         "videoTitle":"Por Qué Me Cuesta Tanto Orar? - ¡Agregué a Dios a Whatsapp! 📱🙏😇",
+         "videoId":"QReH6UEvEBM",
+         "url":"https://www.youtube.com/watch?v=QReH6UEvEBM",
+         "language":"ES",
+         "lessonNumber":"3",
+         "authorPicture":"https://cldup.com/3ILqCBkC7h.png",
+         "author":"Escarabajo Binario",
+         "fb":"escarabajobinario",
+         "instagram":"escarabajobinario",
+         "website":"" 
+},
+{
+         "videoTitle":"¿Realmente volverá Jesús?",
+         "videoId":"T9oRhiLh080",
+         "url":"https://www.youtube.com/watch?v=T9oRhiLh080",
+         "language":"ES",
+         "lessonNumber":"4",
+         "authorPicture":"https://cldup.com/zv1PmkGuVV.jpg",
+         "author":"Iglesia Adventista Argentina",
+         "fb":"adventistas.ar",
+         "instagram":"adventistas.mibon",
+         "website":"" 
+},
+{
+         "videoTitle":"¿Puedo confiar en la Biblia?",
          "videoId":"",
          "url":"",
-         "language":"",
-         "lessonNumber":"2",
-         "authorPicture":"",
-         "author":"",
-         "fb":"",
-         "instagram":"",
-         "website":""
-      
-}
+         "language":"ES",
+         "lessonNumber":"",
+         "authorPicture":"https://cldup.com/3ILqCBkC7h.png",
+         "author":"Escarabajo Binario",
+         "fb":"escarabajobinario",
+         "instagram":"escarabajobinario",
+         "website":"" 
+},
    
 ],
    "audios":[
