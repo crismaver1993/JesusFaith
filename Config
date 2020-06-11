@@ -1,8 +1,8 @@
 {
    "id":1,
-   "multimediaVersionCode":1,
+   "multimediaVersionCode":2,
    "forceUpdate":false,
-   "jovLessonsCode":2,
+   "jovLessonsCode":1,
    "appHasAlert":false,
    "appAlert":{
       "title":"",
