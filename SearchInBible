@@ -1,7 +1,7 @@
 {
    "id":3,
    "versionCode":1,
-   "lessonType":"searchInBible",
+   "lessonType":"search_in_bible",
    "videos":[
       {
          "videoTitle":"¿Cuál es el origen Biblia? Busquemos en la Biblia",
