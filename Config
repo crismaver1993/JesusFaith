@@ -4,7 +4,7 @@
    "forceUpdate":false,
    "jovLessonsCode":1,
    "easyBible": 2,
-   "searchInbible": 2,
+   "searchInbible": 1,
    "appHasAlert":false,
    "appAlert":{
       "title":"",
