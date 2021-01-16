@@ -1,6 +1,6 @@
 {
    "id":3,
-   "versionCode":2,
+   "versionCode":3,
    "lessonType":"search_in_bible",
    "videos":[
       {
@@ -152,13 +152,197 @@
          "instagram":"",
          "website":"https://esperanzanorte.mx/"
       
+},
+
+ {
+         "videoTitle":"¿Qué es el bautismo? Busquemos en la Biblia",
+         "videoId":"IU-gek4D-iI",
+         "url":"https://youtu.be/IU-gek4D-iI",
+         "season":"1",
+         "language":"ES",
+         "lessonNumber":"11",
+         "authorPicture":"https://cldup.com/U82rXAwKIN.png",
+         "author":"Esperanza Norte MX",
+         "fb":"esperanzanorteMX",
+         "fbId":"748329755333527",
+         "instagram":"",
+         "website":"https://esperanzanorte.mx/"
+      
+},
+
+{
+         "videoTitle":"¿Qué es la muerte? Busquemos en la Biblia",
+         "videoId":"UoHEBQn9WdM",
+         "url":"https://youtu.be/UoHEBQn9WdM",
+         "season":"1",
+         "language":"ES",
+         "lessonNumber":"12",
+         "authorPicture":"https://cldup.com/U82rXAwKIN.png",
+         "author":"Esperanza Norte MX",
+         "fb":"esperanzanorteMX",
+         "fbId":"748329755333527",
+         "instagram":"",
+         "website":"https://esperanzanorte.mx/"
+      
+},
+
+{
+         "videoTitle":"¿Regresará Jesús al mundo? Busquemos en la Biblia",
+         "videoId":"TW01402DF-U",
+         "url":"https://youtu.be/TW01402DF-U",
+         "season":"1",
+         "language":"ES",
+         "lessonNumber":"13",
+         "authorPicture":"https://cldup.com/U82rXAwKIN.png",
+         "author":"Esperanza Norte MX",
+         "fb":"esperanzanorteMX",
+         "fbId":"748329755333527",
+         "instagram":"",
+         "website":"https://esperanzanorte.mx/"
+      
+},
+
+{
+         "videoTitle":"¿Qué señales habrá del fin del mundo? Busquemos en la Biblia",
+         "videoId":"pPpEcYjeULA",
+         "url":"https://youtu.be/pPpEcYjeULA",
+         "season":"1",
+         "language":"ES",
+         "lessonNumber":"14",
+         "authorPicture":"https://cldup.com/U82rXAwKIN.png",
+         "author":"Esperanza Norte MX",
+         "fb":"esperanzanorteMX",
+         "fbId":"748329755333527",
+         "instagram":"",
+         "website":"https://esperanzanorte.mx/"
+      
+},
+{
+         "videoTitle":"¿Siguen vigentes los diez mandamientos? Busquemos en la Biblia",
+         "videoId":"MVkxQWhrN_I",
+         "url":"https://youtu.be/MVkxQWhrN_I",
+         "season":"1",
+         "language":"ES",
+         "lessonNumber":"15",
+         "authorPicture":"https://cldup.com/U82rXAwKIN.png",
+         "author":"Esperanza Norte MX",
+         "fb":"esperanzanorteMX",
+         "fbId":"748329755333527",
+         "instagram":"",
+         "website":"https://esperanzanorte.mx/"
+      
+},
+{
+         "videoTitle":"¿Existe un día especial para adorar a Dios? Busquemos en la Biblia",
+         "videoId":"kbeGRYzis4A",
+         "url":"https://youtu.be/kbeGRYzis4A",
+         "season":"1",
+         "language":"ES",
+         "lessonNumber":"16",
+         "authorPicture":"https://cldup.com/U82rXAwKIN.png",
+         "author":"Esperanza Norte MX",
+         "fb":"esperanzanorteMX",
+         "fbId":"748329755333527",
+         "instagram":"",
+         "website":"https://esperanzanorte.mx/"
+      
+},
+{
+         "videoTitle":"¿Qué cosas podemos hacer en sábado? Busquemos en la Biblia",
+         "videoId":"h5pJpqoIZNM",
+         "url":"https://youtu.be/h5pJpqoIZNM",
+         "season":"1",
+         "language":"ES",
+         "lessonNumber":"17",
+         "authorPicture":"https://cldup.com/U82rXAwKIN.png",
+         "author":"Esperanza Norte MX",
+         "fb":"esperanzanorteMX",
+         "fbId":"748329755333527",
+         "instagram":"",
+         "website":"https://esperanzanorte.mx/"
+      
+},
+{
+         "videoTitle":"¿De quién es el diezmo? Busquemos en la Biblia",
+         "videoId":"sdGRzAOyrcs",
+         "url":"https://youtu.be/sdGRzAOyrcs",
+         "season":"1",
+         "language":"ES",
+         "lessonNumber":"18",
+         "authorPicture":"https://cldup.com/U82rXAwKIN.png",
+         "author":"Esperanza Norte MX",
+         "fb":"esperanzanorteMX",
+         "fbId":"748329755333527",
+         "instagram":"",
+         "website":"https://esperanzanorte.mx/"
+      
+},
+{
+         "videoTitle":"¿Cuál es la iglesia verdadera? Busquemos en la Biblia",
+         "videoId":"Z4wOm__RbWM",
+         "url":"https://youtu.be/Z4wOm__RbWM",
+         "season":"1",
+         "language":"ES",
+         "lessonNumber":"19",
+         "authorPicture":"https://cldup.com/U82rXAwKIN.png",
+         "author":"Esperanza Norte MX",
+         "fb":"esperanzanorteMX",
+         "fbId":"748329755333527",
+         "instagram":"",
+         "website":"https://esperanzanorte.mx/"
+      
+},
+{
+         "videoTitle":"¿Qué es el don profético? Busquemos en la Biblia",
+         "videoId":"TFEK9zblOT4",
+         "url":"https://youtu.be/TFEK9zblOT4",
+         "season":"1",
+         "language":"ES",
+         "lessonNumber":"20",
+         "authorPicture":"https://cldup.com/U82rXAwKIN.png",
+         "author":"Esperanza Norte MX",
+         "fb":"esperanzanorteMX",
+         "fbId":"748329755333527",
+         "instagram":"",
+         "website":"https://esperanzanorte.mx/"
+      
+},
+{
+         "videoTitle":"¿Cómo viven los cristianos? Busquemos en la Biblia",
+         "videoId":"slhhh4bGpuQ",
+         "url":"https://youtu.be/slhhh4bGpuQ",
+         "season":"1",
+         "language":"ES",
+         "lessonNumber":"21",
+         "authorPicture":"https://cldup.com/U82rXAwKIN.png",
+         "author":"Esperanza Norte MX",
+         "fb":"esperanzanorteMX",
+         "fbId":"748329755333527",
+         "instagram":"",
+         "website":"https://esperanzanorte.mx/"
+      
+},
+{
+         "videoTitle":"Conoce a los Grupos Pequeños de la Iglesia Adventista",
+         "videoId":"",
+         "url":"",
+         "season":"1",
+         "language":"ES",
+         "lessonNumber":"22",
+         "authorPicture":"https://cldup.com/U82rXAwKIN.png",
+         "author":"Esperanza Norte MX",
+         "fb":"esperanzanorteMX",
+         "fbId":"748329755333527",
+         "instagram":"",
+         "website":"https://esperanzanorte.mx/"
+      
 }
 ],
    "audios":[
       {
          "audioTitle":"",
-         "audioId":"",
-         "url":"",
+         "audioId":"ch0I3xOXO2g",
+         "url":"https://youtu.be/ch0I3xOXO2g",
          "language":"",
          "lessonNumber":"1",
          "author":"",
