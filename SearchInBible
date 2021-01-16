@@ -1,6 +1,6 @@
 {
    "id":3,
-   "versionCode":4,
+   "versionCode":5,
    "lessonType":"search_in_bible",
    "videos":[
       {
@@ -324,8 +324,8 @@
 },
 {
          "videoTitle":"Conoce a los Grupos Pequeños de la Iglesia Adventista",
-         "videoId":"",
-         "url":"",
+         "videoId":"ch0I3xOXO2g",
+         "url":"https://youtu.be/ch0I3xOXO2g",
          "season":"1",
          "language":"ES",
          "lessonNumber":"22",
