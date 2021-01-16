@@ -1,6 +1,6 @@
 {
    "id":2,
-   "versionCode":2,
+   "versionCode":3,
    "lessonType":"easy_bible",
    "videos":[
    {
@@ -453,7 +453,189 @@
          "instagram":"tvnuevotiempo",
          "website":"https://www.nuevotiempo.org/"
       
+},
+ {
+         "videoTitle":"01-¿Puedo creer en la Biblia?",
+         "videoId":"CSUi1RpvJ0k",
+         "url":"https://youtu.be/CSUi1RpvJ0k",
+         "season":"18",
+         "language":"ES",
+         "lessonNumber":"1",
+         "authorPicture":"https://cldup.com/9WZtQ0PDCa.jpg",
+         "author":"Nuevo Tiempo Oficial",
+         "fb":"tvnuevotiempo",
+         "fbId":"142722119080988",
+         "instagram":"tvnuevotiempo",
+         "website":"https://www.nuevotiempo.org/"
+      
+},
+ {
+         "videoTitle":"02-¿Cómo saber si existe Dios?",
+         "videoId":"ohAZ1HxC5Dc",
+         "url":"https://youtu.be/ohAZ1HxC5Dc",
+         "season":"18",
+         "language":"ES",
+         "lessonNumber":"2",
+         "authorPicture":"https://cldup.com/9WZtQ0PDCa.jpg",
+         "author":"Nuevo Tiempo Oficial",
+         "fb":"tvnuevotiempo",
+         "fbId":"142722119080988",
+         "instagram":"tvnuevotiempo",
+         "website":"https://www.nuevotiempo.org/"
+},
+
+ {
+         "videoTitle":"03 - ¿Quién es Jesús?",
+         "videoId":"2uYiSkb9nNk",
+         "url":"https://youtu.be/2uYiSkb9nNk",
+         "season":"18",
+         "language":"ES",
+         "lessonNumber":"3",
+         "authorPicture":"https://cldup.com/9WZtQ0PDCa.jpg",
+         "author":"Nuevo Tiempo Oficial",
+         "fb":"tvnuevotiempo",
+         "fbId":"142722119080988",
+         "instagram":"tvnuevotiempo",
+         "website":"https://www.nuevotiempo.org/"
+      
+},
+
+ {
+         "videoTitle":"04 - ¿Quién es el Espíritu Santo?",
+         "videoId":"5HsJHbdnGd8",
+         "url":"https://youtu.be/5HsJHbdnGd8",
+         "season":"18",
+         "language":"ES",
+         "lessonNumber":"4",
+         "authorPicture":"https://cldup.com/9WZtQ0PDCa.jpg",
+         "author":"Nuevo Tiempo Oficial",
+         "fb":"tvnuevotiempo",
+         "fbId":"142722119080988",
+         "instagram":"tvnuevotiempo",
+         "website":"https://www.nuevotiempo.org/"
+      
+},
+ {
+         "videoTitle":"05-¿Creación o Evolución?",
+         "videoId":"Ch-X9CUeTGo",
+         "url":"https://youtu.be/Ch-X9CUeTGo",
+         "season":"18",
+         "language":"ES",
+         "lessonNumber":"5",
+         "authorPicture":"https://cldup.com/9WZtQ0PDCa.jpg",
+         "author":"Nuevo Tiempo Oficial",
+         "fb":"tvnuevotiempo",
+         "fbId":"142722119080988",
+         "instagram":"tvnuevotiempo",
+         "website":"https://www.nuevotiempo.org/"
+      
+},
+ {
+         "videoTitle":"06 - ¿Ángeles o demonios?",
+         "videoId":"mkeLDIMccdg",
+         "url":"https://youtu.be/mkeLDIMccdg",
+         "season":"18",
+         "language":"ES",
+         "lessonNumber":"6",
+         "authorPicture":"https://cldup.com/9WZtQ0PDCa.jpg",
+         "author":"Nuevo Tiempo Oficial",
+         "fb":"tvnuevotiempo",
+         "fbId":"142722119080988",
+         "instagram":"tvnuevotiempo",
+         "website":"https://www.nuevotiempo.org/"
+      
+},
+ {
+         "videoTitle":"07-¿Condenados o restaurados?",
+         "videoId":"WQyEiUq8DLs",
+         "url":"https://youtu.be/WQyEiUq8DLs",
+         "season":"18",
+         "language":"ES",
+         "lessonNumber":"7",
+         "authorPicture":"https://cldup.com/9WZtQ0PDCa.jpg",
+         "author":"Nuevo Tiempo Oficial",
+         "fb":"tvnuevotiempo",
+         "fbId":"142722119080988",
+         "instagram":"tvnuevotiempo",
+         "website":"https://www.nuevotiempo.org/"
+      
+},
+ {
+         "videoTitle":"08 - ¿La gracia anula la Ley?",
+         "videoId":"vJWWUpv1oy4",
+         "url":"https://youtu.be/vJWWUpv1oy4",
+         "season":"18",
+         "language":"ES",
+         "lessonNumber":"8",
+         "authorPicture":"https://cldup.com/9WZtQ0PDCa.jpg",
+         "author":"Nuevo Tiempo Oficial",
+         "fb":"tvnuevotiempo",
+         "fbId":"142722119080988",
+         "instagram":"tvnuevotiempo",
+         "website":"https://www.nuevotiempo.org/"
+      
+},
+ {
+         "videoTitle":"09 - ¿Por qué guardar el sábado?",
+         "videoId":"YFzso2_pLTg",
+         "url":"https://youtu.be/YFzso2_pLTg",
+         "season":"18",
+         "language":"ES",
+         "lessonNumber":"9",
+         "authorPicture":"https://cldup.com/9WZtQ0PDCa.jpg",
+         "author":"Nuevo Tiempo Oficial",
+         "fb":"tvnuevotiempo",
+         "fbId":"142722119080988",
+         "instagram":"tvnuevotiempo",
+         "website":"https://www.nuevotiempo.org/"
+      
+},
+ {
+         "videoTitle":"10 - ¿Cuál es la iglesia verdadera?",
+         "videoId":"W4wP__P06Sk",
+         "url":"https://youtu.be/W4wP__P06Sk",
+         "season":"18",
+         "language":"ES",
+         "lessonNumber":"10",
+         "authorPicture":"https://cldup.com/9WZtQ0PDCa.jpg",
+         "author":"Nuevo Tiempo Oficial",
+         "fb":"tvnuevotiempo",
+         "fbId":"142722119080988",
+         "instagram":"tvnuevotiempo",
+         "website":"https://www.nuevotiempo.org/"
+      
+},
+ {
+         "videoTitle":"11 - ¿Cómo se administra la vida?",
+         "videoId":"DF6yvGvlfYM",
+         "url":"https://youtu.be/DF6yvGvlfYM",
+         "season":"18",
+         "language":"ES",
+         "lessonNumber":"11",
+         "authorPicture":"https://cldup.com/9WZtQ0PDCa.jpg",
+         "author":"Nuevo Tiempo Oficial",
+         "fb":"tvnuevotiempo",
+         "fbId":"142722119080988",
+         "instagram":"tvnuevotiempo",
+         "website":"https://www.nuevotiempo.org/"
+      
+},
+ {
+         "videoTitle":"12 - ¿Cómo crecer espiritualmente?",
+         "videoId":"xpK20yjpQPI",
+         "url":"https://youtu.be/xpK20yjpQPI",
+         "season":"18",
+         "language":"ES",
+         "lessonNumber":"12",
+         "authorPicture":"https://cldup.com/9WZtQ0PDCa.jpg",
+         "author":"Nuevo Tiempo Oficial",
+         "fb":"tvnuevotiempo",
+         "fbId":"142722119080988",
+         "instagram":"tvnuevotiempo",
+         "website":"https://www.nuevotiempo.org/"
+      
 }
+
 ],
    "audios":[
       {
