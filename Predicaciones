@@ -1,0 +1,39 @@
+{
+   "id":3,
+   "versionCode":1,
+   "lessonType":"easy_bible",
+   "videos":[
+   {
+         "videoTitle":"Enseñanzas de Jesús- Escrituras - Bíblia Fácil",
+         "videoId":"fCcG6slCvhI",
+         "url":"https://youtu.be/fCcG6slCvhI",
+         "season":"12",
+         "language":"ES",
+         "lessonNumber":"1",
+         "authorPicture":"https://cldup.com/YT7WR0b2op.png",
+         "author":"Nuevo Tiempo Oficial",
+         "fb":"tvnuevotiempo",
+         "fbId":"142722119080988",
+         "instagram":"tvnuevotiempo",
+         "website":"https://www.nuevotiempo.org/"
+      
+}
+
+],
+   "audios":[
+      {
+         "audioTitle":"",
+         "audioId":"",
+         "url":"",
+         "language":"",
+         "lessonNumber":"1",
+         "author":"",
+         "authorPicture":"",
+         "fbId":"",
+         "instagram":"",
+         "website":""
+      
+}
+   
+]
+}
