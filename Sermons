@@ -4,19 +4,34 @@
    "lessonType":"sermons_videos",
    "videos":[
    {
-         "videoTitle":"Enseñanzas de Jesús- Escrituras - Bíblia Fácil",
-         "videoId":"fCcG6slCvhI",
-         "url":"https://youtu.be/fCcG6slCvhI",
-         "season":"12",
+         "videoTitle":"Sal del closet",
+         "videoId":"0qC6bfT6dhs",
+         "url":"https://youtu.be/0qC6bfT6dhs?t=663",
+         "season":"1",
          "language":"ES",
          "lessonNumber":"1",
-         "authorPicture":"https://cldup.com/YT7WR0b2op.png",
-         "author":"Nuevo Tiempo Oficial",
-         "fb":"tvnuevotiempo",
-         "fbId":"142722119080988",
-         "instagram":"tvnuevotiempo",
-         "website":"https://www.nuevotiempo.org/"
+         "authorPicture":"https://cldup.com/sPX7o8NY49.png",
+         "author":"Ptr. Arnoldo Cruz",
+         "fb":"PastorArnaldoCruz",
+         "fbId":"100044473177996",
+         "instagram":"pastorarnaldocruz",
+         "website":"https://www.arnaldocruz.com/"
       
+},
+
+{
+         "videoTitle":"Yo Creo en Milagros",
+         "videoId":"uWQqjmvkrTc",
+         "url":"https://youtu.be/uWQqjmvkrTc",
+         "season":"2",
+         "language":"ES",
+         "lessonNumber":"1",
+         "authorPicture":"https://cldup.com/sPX7o8NY49.png",
+         "author":"Ptr. Arnoldo Cruz",
+         "fb":"PastorArnaldoCruz",
+         "fbId":"100044473177996",
+         "instagram":"pastorarnaldocruz",
+         "website":"https://www.arnaldocruz.com/"
 }
 
 ],
